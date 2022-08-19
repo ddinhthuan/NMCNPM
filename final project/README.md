@@ -7,3 +7,10 @@ Các kỹ thuật sử dụng:
 - hiển thị thông tin sản phẩm, đánh giá sản phẩm
 - mã xác thực tài khoản
 Kèm một số chức năng khác
+
+
+Để cài đặt: 
+1. npm install
+2. npm start
+3. chạy localhost:3000
+
